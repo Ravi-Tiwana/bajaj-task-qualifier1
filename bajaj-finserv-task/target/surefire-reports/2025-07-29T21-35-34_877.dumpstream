@@ -1,0 +1,5 @@
+# Created at 2025-07-29T21:35:35.924
+Boot Manifest-JAR contains absolute paths in classpath 'D:\new dowload\bajaj-finserv-task\bajaj-finserv-task\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
